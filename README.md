@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **liameaster95@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://img.shields.io/badge/View-Resume-blue)](https://drive.google.com/file/d/1CoJmGmjjhW4j0ZLUUvA1ZewP42JDVpDK/view?usp=drive_link)
+- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/View-Resume-blue)](https://drive.google.com/file/d/1CoJmGmjjhW4j0ZLUUvA1ZewP42JDVpDK/view?usp=drive_link)
 
 
 - ⚡ Fun fact **I enjoy watching/playing soccer, hiking and playing the viola!**
