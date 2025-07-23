@@ -24,7 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-(https://www.linkedin.com/in/liameaster95/)
+  <a href="https://www.linkedin.com/in/liameaster95/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
 
 </p>
 
